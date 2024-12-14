@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66336F5-EB11-4C05-95D2-D197C38BF091}|ProductShipmentClient\\ProductShipmentClient.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E66336F5-EB11-4C05-95D2-D197C38BF091}|ProductShipmentClient\\ProductShipmentClient.csproj|solutionrelative:productshipmentclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66336F5-EB11-4C05-95D2-D197C38BF091}|ProductShipmentClient\\ProductShipmentClient.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66336F5-EB11-4C05-95D2-D197C38BF091}|ProductShipmentClient\\ProductShipmentClient.csproj|solutionrelative:productshipmentclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\models\\shipmentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\models\\shipmentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\migrations\\20241213234753_addinitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\migrations\\20241213234753_addinitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\controllers\\shipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\controllers\\shipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66336F5-EB11-4C05-95D2-D197C38BF091}|ProductShipmentClient\\ProductShipmentClient.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentclient\\productshipmentclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E66336F5-EB11-4C05-95D2-D197C38BF091}|ProductShipmentClient\\ProductShipmentClient.csproj|solutionrelative:productshipmentclient\\productshipmentclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\models\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\models\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\migrations\\20241213234753_addinitialdata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\migrations\\20241213234753_addinitialdata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\migrations\\20241214014749_addreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\migrations\\20241214014749_addreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\migrations\\20241214010256_addshipmentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\migrations\\20241214010256_addshipmentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|c:\\users\\d_sil\\desktop\\productshipmentapi\\productshipmentapi\\migrations\\20241214003120_addidcolumntoproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D991C-7054-40C5-B8DE-69C8779ED8DA}|ProductShipmentAPI\\ProductShipmentAPI.csproj|solutionrelative:productshipmentapi\\migrations\\20241214003120_addidcolumntoproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductShipmentAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:44:54.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShipmentReport.cs",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Models\\ShipmentReport.cs",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\Models\\ShipmentReport.cs",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Models\\ShipmentReport.cs",
+              "RelativeToolTip": "ProductShipmentAPI\\Models\\ShipmentReport.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:42:01.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Program.cs",
+              "RelativeToolTip": "ProductShipmentAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:57:06.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProductShipmentClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentClient\\MainWindow.xaml",
+              "RelativeToolTip": "ProductShipmentClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T20:44:29.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductShipmentAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:55:01.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241213234753_AddInitialData.cs",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Migrations\\20241213234753_AddInitialData.cs",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\Migrations\\20241213234753_AddInitialData.cs",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Migrations\\20241213234753_AddInitialData.cs",
+              "RelativeToolTip": "ProductShipmentAPI\\Migrations\\20241213234753_AddInitialData.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:48:01.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductShipmentClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProductShipmentClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwFsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:44:19.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductShipmentAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA0wBkAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:52:30.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShipmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Controllers\\ShipmentsController.cs",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\Controllers\\ShipmentsController.cs",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Controllers\\ShipmentsController.cs",
+              "RelativeToolTip": "ProductShipmentAPI\\Controllers\\ShipmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:56:17.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\appsettings.json",
+              "RelativeToolTip": "ProductShipmentAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T22:56:48.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductShipmentClient.csproj",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentClient\\ProductShipmentClient.csproj",
+              "RelativeDocumentMoniker": "ProductShipmentClient\\ProductShipmentClient.csproj",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentClient\\ProductShipmentClient.csproj",
+              "RelativeToolTip": "ProductShipmentClient\\ProductShipmentClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T20:58:12.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductShipmentAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T06:21:02.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shipment.cs",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Models\\Shipment.cs",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\Models\\Shipment.cs",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Models\\Shipment.cs",
+              "RelativeToolTip": "ProductShipmentAPI\\Models\\Shipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:51:54.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241214014749_AddReports.cs",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Migrations\\20241214014749_AddReports.cs",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\Migrations\\20241214014749_AddReports.cs",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Migrations\\20241214014749_AddReports.cs",
+              "RelativeToolTip": "ProductShipmentAPI\\Migrations\\20241214014749_AddReports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:47:50.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241214010256_AddShipmentReport.cs",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Migrations\\20241214010256_AddShipmentReport.cs",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\Migrations\\20241214010256_AddShipmentReport.cs",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Migrations\\20241214010256_AddShipmentReport.cs",
+              "RelativeToolTip": "ProductShipmentAPI\\Migrations\\20241214010256_AddShipmentReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:02:56.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241214003120_AddIdColumnToProducts.cs",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Migrations\\20241214003120_AddIdColumnToProducts.cs",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\Migrations\\20241214003120_AddIdColumnToProducts.cs",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Migrations\\20241214003120_AddIdColumnToProducts.cs",
+              "RelativeToolTip": "ProductShipmentAPI\\Migrations\\20241214003120_AddIdColumnToProducts.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:31:22.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProductShipmentAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:03:56.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241213234753_AddInitialData.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Migrations\\20241213234753_AddInitialData.Designer.cs",
+              "RelativeDocumentMoniker": "ProductShipmentAPI\\Migrations\\20241213234753_AddInitialData.Designer.cs",
+              "ToolTip": "C:\\Users\\d_sil\\Desktop\\ProductShipmentAPI\\ProductShipmentAPI\\Migrations\\20241213234753_AddInitialData.Designer.cs",
+              "RelativeToolTip": "ProductShipmentAPI\\Migrations\\20241213234753_AddInitialData.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:03:53.671Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "ProductShipmentAPI\\ProductShipmentAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "ProductShipmentClient\\ProductShipmentClient.csproj",
+        "Action": "Start",
+        "DebugTarget": "ProductShipmentClient"
+      }
+    ]
+  }
+]
